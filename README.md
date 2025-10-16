@@ -12,8 +12,9 @@ If a person has a Flipper Zero, they can use the qFlipper Desktop App to downloa
 I also imported code to show how you turn a .png file into Flipper Zero .bm files. NOTE: This has two pictures side by side. I need only one. If someone knows how to do this in Python, it will be greatly appreciated.
 
 ## Credits
-Don't like the animation on a Flipper Zero? Use these ones. However, give credit where credit is due.
-CNBC: (c) 2025 NBCUniversal. All Rights Reserved.
-One Piece: (c) 2025 Eiichiro Oda/Shueshia; Toei Animation. All Rights Reserved.
+Don't like the animation on a Flipper Zero? Use these ones. However, give credit where credit is due. <br/>
+CNBC: (c) 2025 NBCUniversal. All Rights Reserved. <br/>
+One Piece: (c) 2025 Eiichiro Oda/Shueshia; Toei Animation. All Rights Reserved. <br/>
+
 
 Happy flipping! 🐬

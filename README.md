@@ -9,7 +9,8 @@ No third-party applications were installed during the making of this project. Th
 ## Usage
 If a person has a Flipper Zero, they can use the qFlipper Desktop App to download and transfer the animation files to their device. NOTE: You must update the manifest.txt file for the animations to load and appear correctly on the Flipper Zero. Consult the official Flipper Zero documentation for the proper procedure on modifying the manifest.txt file for custom assets. 💾
 
-I also imported code to show how you turn a .png file (or multiple .png files) into Flipper Zero .bm files. NOTE: This has two pictures side by side. I need only one. If someone knows how to do this in Python, it will be greatly appreciated.
+## PNG2BM
+I also imported code to show how you turn a .png file (or multiple .png files) into Flipper Zero .bm files. This comes with thanks to Momentum Firmware (https://github.com/Next-Flip/Momentum-Firmware). They helped me out with the conversion.
 
 ## Credits
 Don't like the animation on a Flipper Zero? Use these ones. However, give credit where credit is due. <br/>

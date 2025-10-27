@@ -169,10 +169,10 @@ Min level: 1
 Max level: 3
 Weight: 3
 
-Name: wkratts_128x64
+Name: L2_Coding_in_the_shell_128x64
 Min butthurt: 0
 Max butthurt: 12
-Min level: 1
+Min level: 2
 Max level: 3
 Weight: 3
 
@@ -197,7 +197,7 @@ Min level: 1
 Max level: 3
 Weight: 3
 
-Name: L3_Intruder_alert_128x64
+Name: wkratts_128x64
 Min butthurt: 0
 Max butthurt: 12
 Min level: 1

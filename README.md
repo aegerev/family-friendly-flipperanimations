@@ -16,8 +16,6 @@ I also imported code to show how you turn a .png file (or multiple .png files) i
 Don't like the animation on a Flipper Zero? Use these ones. However, give credit where credit is due. <br/>
 CNBC: (c) 2025 NBCUniversal. All Rights Reserved. <br/>
 One Piece: (c) 2025 Eiichiro Oda/Shueshia; Toei Animation. All Rights Reserved. <br/>
-FOX SPORTS™, SPEED™, SPEED.COM ™ & © 2025 Fox Media LLC and Fox Sports Interactive Media, LLC. All rights reserved. All Rights Reserved. <br/>
-Philadelphia Eagles: (c) 2025 National Football League. All Rights Reserved. <br/>
-PBS KIDS: Copyright © 1995-2025 Public Broadcasting Service (PBS). All rights reserved. <br/>
+Wild Kratts© 2025 Kratt Brothers Company Ltd. / 9 Story Media Group Inc. Wild Kratts® and Creature Power® and associated characters, trademarks, and design elements are owned by Kratt Brothers Company Ltd. Licensed by Kratt Brothers Company Ltd. All Rights Reserved.
 
 Happy flipping! 🐬
